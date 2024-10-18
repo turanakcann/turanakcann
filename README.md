@@ -1,7 +1,7 @@
 # "Gelecek, teknolojiyle şekilleniyor. Benim işimse onu inşa etmek."
 #### Bilgisayar Mühendisi | Teknoloji Tutkunu | Marvel Evreninden İlham Alıyorum
 
-![Iron Man](https://media.giphy.com/media/l0HlymN65CKeSl8k4/giphy.gif)
+![Iron Man]([https://media.giphy.com/media/l0HlymN65CKeSl8k4/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FqZmljN2h0cDJkMjllb2F1YXozMnVia2ZqOTNzc3VsOWMycWJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif))
 
 ### 🛠️ Kullandığım Teknolojiler:
 - **Diller**: Python, JavaScript, C++
