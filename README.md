@@ -15,9 +15,6 @@
 
 - 💬 Ask me about **computer science and mobile programming**
 
-- 📫 Connect with me 
-<a href="mailto:turannakcan@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mailto:turannakcan@gmail.com" height="24" width="28" /> </a>
-
 - 📄 Know about my experiences <a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a> 
 
 
@@ -29,6 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+    <a href="mailto:turannakcan@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mailto:turannakcan@gmail.com" height="24" width="28" /> </a>
 <a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/@dumendenmuhendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
 </p>
