@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
 
-![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dBsJwo17cbYvs8vqfx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-dBsJwo17cbYvs8vqfx">via GIPHY</a></p>
 
 
 - 🔭 I’m currently working on **Planner**
