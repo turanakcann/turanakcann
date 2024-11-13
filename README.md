@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Turan AKCAN</h1>
 <h3 align="center">The future is shaped by technology. My job is to build it. 🌎</h3>
 
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.webp" alt="Home_turanakcann">
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
 
 - 🔭 I’m currently working on **Planner**
@@ -9,15 +13,15 @@
 
 - 🤝 I’m looking for help with MSSQL and Java **Planner**
 
-- 👨‍💻 All of my projects are available at [https://github.com/turanakcann?tab=repositories](https://github.com/turanakcann?tab=repositories)
-
-- 📝 I regularly write articles on [https://medium.com/@turannakcan](https://medium.com/@turannakcan)
+- 📝 I regularly write articles on <a href="https://medium.com/@turannakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@turannakcan" height="30" width="40" /></a>
 
 - 💬 Ask me about **computer science and mobile programming**
 
-- 📫 How to reach me **turannakcan@gmail.com**
+- 📫 Connect with me 
+<a href="mailto:turannakcan@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="mailto:turannakcan@gmail.com" height="24" width="28" /> </a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/turanakcan/](https://www.linkedin.com/in/turanakcan/)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a> 
+
 
 - ⚡ About for me **Hello! I'm Turan, a student at Zonguldak Bülent Ecevit University, Department of Computer Engineering. As someone who grew up with licensed chess and basketball games, I lead an active life both mentally and physically.**
 
@@ -26,9 +30,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a>
-<a href="https://medium.com/@turannakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@turannakcan" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/@dumendenmuhendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
 </p>
 
