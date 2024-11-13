@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif" alt="Coding GIF" width="500"/>
-</p>
+![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif)
+
 
 - 🔭 I’m currently working on **Planner**
 
