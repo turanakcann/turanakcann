@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Turan AKCAN</h1>
 <h3 align="center">The future is shaped by technology. My job is to build it. 🌎</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dBsJwo17cbYvs8vqfx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-dBsJwo17cbYvs8vqfx">via GIPHY</a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p
 
 
 - 🔭 I’m currently working on **Planner**
