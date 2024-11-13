@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.gif" alt="Coding GIF" width="500"/>
+</p>
+
 - 🔭 I’m currently working on **Planner**
 
 - 🌱 I’m currently learning **Python, MSSQL, Algorithm Analysis and Kotlin**
@@ -29,7 +33,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a>
 <a href="https://medium.com/@turannakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@turannakcan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dümenden mühendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dumendenmuhedis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
