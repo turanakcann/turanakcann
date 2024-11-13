@@ -5,8 +5,6 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.webp" alt="Home_turanakcann">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
-
 - 🔭 I’m currently working on **Planner**
 
 - 🌱 I’m currently learning **Python, MSSQL, Algorithm Analysis and Kotlin**
