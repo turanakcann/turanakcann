@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Turan AKCAN</h1>
 <h3 align="center">The future is shaped by technology. My job is to build it. 🌎</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turanakcann" alt="turanakcann" /></a> </p>
 
 - 🔭 I’m currently working on **Planner**
 
@@ -30,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/turanakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turanakcan" height="30" width="40" /></a>
 <a href="https://medium.com/@turannakcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@turannakcan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dumendenmuhedis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dumendenmuhendis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dümenden mühendis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
