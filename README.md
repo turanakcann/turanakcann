@@ -2,7 +2,7 @@
 <h3 align="center">The future is shaped by technology. My job is to build it. 🌎</h3>
 
 <p align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.webp)" alt="Home_turanakcann">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXEzY3N0eXNsdXRucTloaW1id2xrcGRmanpqZ2IxbXZwOHFvc2g4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBsJwo17cbYvs8vqfx/giphy.webp" alt="Home_turanakcann">
 </p>
 
 - 🔭 I’m currently working on **Planner**
